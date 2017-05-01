@@ -1,0 +1,5 @@
+-pixelgalaxy.combustions.ExplodeCombustion
+pixelgalaxy.particles.Oxygen pixelgalaxy.particles.Hydrogen
+pixelgalaxy.combustions.FusionCombustion 5 pixelgalaxy.particles.Water
+pixelgalaxy.particles.Oxygen pixelgalaxy.particles.Silicon
+pixelgalaxy.combustions.FusionCombustion 0 pixelgalaxy.particles.Glass

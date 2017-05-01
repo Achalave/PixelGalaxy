@@ -1,0 +1,13 @@
+-pixelgalaxy.collisions.StickCollision
+
+pixelgalaxy.particles.Lava pixelgalaxy.particles.Oxygen
+pixelgalaxy.collisions.CombustCollision
+
+pixelgalaxy.particles.Lava pixelgalaxy.particles.Hydrogen
+pixelgalaxy.collisions.CombustCollision
+
+pixelgalaxy.particles.Earth pixelgalaxy.particles.Earth
+pixelgalaxy.collisions.RandomCollision pixelgalaxy.collisions.CombustCollision pixelgalaxy.collisions.StickCollision pixelgalaxy.collisions.StickCollision
+
+pixelgalaxy.particles.Water pixelgalaxy.particles.Earth
+pixelgalaxy.collisions.BounceCollision
