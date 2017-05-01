@@ -1,0 +1,2 @@
+# PixelGalaxy
+PixelGalaxy is a strategy game that takes place in space. Only the foundation for the game itself has been created. Elements can be found randomly spawning in space and interact with each other in interesting ways. For example, some lava may ignite oxygen to produce an explosion. Heated sand may produce glass. Clusters of elements will naturally form land masses. Heat is transferred between attached elements using basic physics equations.
